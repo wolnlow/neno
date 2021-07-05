@@ -1,19 +1,22 @@
 {
-	"content": "<p>#测试 #图片</p>",
-	"pureContent": "#测试#图片",
+	"content": "<p>#测试 </p><p>#图片</p><p><br></p>",
+	"pureContent": "#测试 \n\n#图片\n\n\n",
 	"_id": "60e28fe5ba206d677cbb1c5b",
 	"parentId": "",
 	"source": "web",
 	"tags": [
-		"#测试 #图片"
+		"#测试",
+		"#图片"
 	],
 	"images": [
 		{
 			"key": "60e28fc6ba206d677cbb1c59",
 			"platform": "indexedDB",
 			"imgDomain": "http://img.neno.topmini.top",
-			"timeStamp": 1625460678435.4932
+			"timeStamp": 1625460757186.2705
 		}
 	],
-	"created_at": "2021-07-05T12:51:49+08:00"
+	"created_at": "2021-07-05T12:51:49+08:00",
+	"sha": "",
+	"update_at": "2021-07-05T12:52:53+08:00"
 }
