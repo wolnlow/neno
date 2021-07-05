@@ -1,7 +1,5 @@
 {
 	"_id": "pinTags",
-	"tags": [
-		"#测试#图片"
-	],
+	"tags": [],
 	"created_at": "pinTags"
 }
