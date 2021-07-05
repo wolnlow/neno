@@ -1,11 +1,11 @@
 {
-	"content": "<p>#测试#图片</p>",
+	"content": "<p>#测试 #图片</p>",
 	"pureContent": "#测试#图片",
 	"_id": "60e28fe5ba206d677cbb1c5b",
 	"parentId": "",
 	"source": "web",
 	"tags": [
-		"#测试#图片"
+		"#测试 #图片"
 	],
 	"images": [
 		{
